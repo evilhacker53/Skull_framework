@@ -5,4 +5,4 @@ Hacking framework which install kali linux tools and easily lets the user to use
 Project in development 
 
 
-new updates and proper documentation coming soon
+new updates and proper documentation coming soon...
